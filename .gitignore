@@ -1,5 +1,6 @@
 *.sw*
 *~
+*.sublime-workspace
 build/
 bin/
 node_modules/
